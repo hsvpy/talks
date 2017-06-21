@@ -1,2 +1,15 @@
 # talks
 A list of past talks, including slides, videos, and any other resource we have.
+
+## List of Talks
+
+* Jun 16, 2017 - *Flask/Package Isolation* [Flask Slides](https://unix-pipes-as-a-service-talk.herokuapp.com/slides#/)[Flask GitHub](https://github.com/cking-ha/hsv.py-flask-intro-talk)
+* Jun 9, 2015 - *Lightning Talks*
+* Feb 10, 2015 - *Intro to Selenium* [Slides](https://www.slideshare.net/pviafore/controlling-the-browser-through-python-and-selenium)
+* Dec 8, 2014 - *Image Processing Using Python*
+* Sep 9, 2014 - *Decorators Explained*
+* Aug 12, 2014 - *Functional Python, Intro to Pandas, Plotly Graphs*
+* Jul 8, 2014 - *Lightning Talks!*
+* Jun 10, 2014 - *Python: One Test Suite to Rule Them All*
+* May 13, 2014 - *Introduction to Django*
+* April 1, 2014 - *Analyzing GPS Run/Bike Data with Python*
