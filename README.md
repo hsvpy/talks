@@ -12,4 +12,4 @@ A list of past talks, including slides, videos, and any other resource we have.
 * Jul 8, 2014 - *Lightning Talks!*
 * Jun 10, 2014 - *Python: One Test Suite to Rule Them All*
 * May 13, 2014 - *Introduction to Django*
-* April 1, 2014 - *Analyzing GPS Run/Bike Data with Python*
+* April 1, 2014 - *Analyzing GPS Run/Bike Data with Python* [Github](https://github.com/titsworth/hsvpy-runtalk)
