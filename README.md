@@ -3,7 +3,8 @@ A list of past talks, including slides, videos, and any other resource we have.
 
 ## List of Talks
 
-* Mar 29th/ 2017 Lightning Talks - [Sudoku Solving](https://github.com/pviafore/sudoku-solver/blob/master/Sudoku%20Solver.ipynb)
+* Mar 29th, 2017 Lightning Talks - [Sudoku Solving](https://github.com/pviafore/sudoku-solver/blob/master/Sudoku%20Solver.ipynb)
+* Feb 21st, 2017 Getting started with Python / Getting Started with Unit Testing 
 * Jan 30th, 2017 - 5 Ways to Better Dev- No Matter What / Django in a Jiffy [Slides](https://docs.google.com/presentation/d/1CjWWlRFKgaom9LWoegRvaScXtAlEEbQk0wRCWactZXM/edit?usp=sharing)
 * Dec 8th, 2017 - MATLAB as a Python Replacement
 * Nov 7th, 2017 - *Python Unit Testing and CI Workflow* [Slides](https://docs.google.com/presentation/d/1PQ6k4dcZG0YI2fiwVOCAqBIA6tXOhu8RvbIuiNdVulc/edit?usp=sharing)
