@@ -3,6 +3,7 @@ A list of past talks, including slides, videos, and any other resource we have.
 
 ## List of Talks
 
+* May 8th, 2017 [Generative Adversarial Networks](https://github.com/arnolmi/GAN)
 * Mar 29th, 2017 Lightning Talks - [Sudoku Solving](https://github.com/pviafore/sudoku-solver/blob/master/Sudoku%20Solver.ipynb)
 * Feb 21st, 2017 Getting started with Python / Getting Started with Unit Testing 
 * Jan 30th, 2017 - 5 Ways to Better Dev- No Matter What / Django in a Jiffy [Slides](https://docs.google.com/presentation/d/1CjWWlRFKgaom9LWoegRvaScXtAlEEbQk0wRCWactZXM/edit?usp=sharing)
