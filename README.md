@@ -3,6 +3,7 @@ A list of past talks, including slides, videos, and any other resource we have.
 
 ## List of Talks
 
+* Jun 14th, 2017 [Automating Raspberry Pis with your Phone Using Python](https://www.slideshare.net/pviafore/controlling-raspberry-pis-with-your-phone-using-python-110292334)
 * May 8th, 2017 [Generative Adversarial Networks](https://github.com/arnolmi/GAN)
 * Mar 29th, 2017 Lightning Talks - [Sudoku Solving](https://github.com/pviafore/sudoku-solver/blob/master/Sudoku%20Solver.ipynb)
 * Feb 21st, 2017 Getting started with Python / Getting Started with Unit Testing 
