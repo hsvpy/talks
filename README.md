@@ -2,7 +2,7 @@
 A list of past talks, including slides, videos, and any other resource we have.
 
 ## List of Talks
-* April 30, 2019: Lightning Talks [Dataclasses[(https://github.com/pviafore/presentation-resources/blob/master/hsvpy/Dataclasses.ipynb)
+* April 30, 2019: Lightning Talks [Dataclasses](https://github.com/pviafore/presentation-resources/blob/master/hsvpy/Dataclasses.ipynb)
 * March 28th, 2019: [SOLID Design Principles in Python ](https://docs.google.com/presentation/d/1Masft7dSCY46oElA9Uolg_yz4_TQU-b_G-GVF7QZfqY/edit?usp=sharing)
 * Feb 26th, 2019 : Python 3 Panel Talk
 * Jan 30th, 2019 Using Jupyter Notebooks for Quick Look Analysis
