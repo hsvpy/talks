@@ -2,6 +2,7 @@
 A list of past talks, including slides, videos, and any other resource we have.
 
 ## List of Talks
+* Nov 8th, 2019: Tip Top Typing: A Look At Python Typing [Video](https://studio.youtube.com/video/vtUiZkHVi-w)[Slides] (https://www.slideshare.net/pviafore/tip-top-typing-a-look-at-python-typing)
 * Oct 8, 2019: Introduction to Docker [Slides](Docker.pptx)/ Python and Microservices [Slides](https://drive.google.com/file/d/1HUINo_YWHlBXqdXPRmAfVTACH8mATy0G/view) [Video](https://www.youtube.com/watch?v=W_HZLqqkgIw)
 * Sep 20, 2019: PyTorch & TensorFlow[Slides](https://docs.google.com/presentation/d/1yhAFLsKK78NyzCQd4mXz-tzvlIP1iG7F57vixWC5VBk/edit?usp=sharing) / AWS CDK
 * Jun 19, 2019: Python as a MATLAB Replacement
