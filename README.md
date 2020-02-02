@@ -2,7 +2,7 @@
 A list of past talks, including slides, videos, and any other resource we have.
 
 ## List of Talks
-* Jan 24th, 2019: Python3 Lightning Talks:  [F-strings](https://docs.google.com/presentation/d/19tFoqdi8jFbIkhNDtLjrkNFK9spVgxfYZBln7MJaqAY/edit?usp=sharing) | [Walrus Operator](https://docs.google.com/presentation/d/143PasHqrAXuG7VIFwsvwEas6wJD1_WVU89iTnGy9LxA/edit?usp=sharing) | [Import Lib Metadata](importlib.metadata.pptx) | [Trivia](https://docs.google.com/presentation/d/1rI9M2LVpuEuQfu45V47_aP4N5U-GMBZvOBQ-JT5ICQo/edit?usp=sharing)
+* Jan 24th, 2019: Python3 Lightning Talks:  [F-strings](https://docs.google.com/presentation/d/19tFoqdi8jFbIkhNDtLjrkNFK9spVgxfYZBln7MJaqAY/edit?usp=sharing) | [Walrus Operator](https://docs.google.com/presentation/d/143PasHqrAXuG7VIFwsvwEas6wJD1_WVU89iTnGy9LxA/edit?usp=sharing) | [Import Lib Metadata](importlib.metadata.pptx) | [Trivia](https://docs.google.com/presentation/d/1rI9M2LVpuEuQfu45V47_aP4N5U-GMBZvOBQ-JT5ICQo/edit?usp=sharing) | [Video](https://youtu.be/6tmtiB_tVfE)
 * Nov 8th, 2019: Tip Top Typing: A Look At Python Typing [Video](https://www.youtube.com/watch?v=vtUiZkHVi-w&feature=youtu.be) [Slides](https://www.slideshare.net/pviafore/tip-top-typing-a-look-at-python-typing)
 * Oct 8, 2019: Introduction to Docker [Slides](Docker.pptx)/ Python and Microservices [Slides](https://drive.google.com/file/d/1HUINo_YWHlBXqdXPRmAfVTACH8mATy0G/view) [Video](https://www.youtube.com/watch?v=W_HZLqqkgIw)
 * Sep 20, 2019: PyTorch & TensorFlow[Slides](https://docs.google.com/presentation/d/1yhAFLsKK78NyzCQd4mXz-tzvlIP1iG7F57vixWC5VBk/edit?usp=sharing) / AWS CDK
