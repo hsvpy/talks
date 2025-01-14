@@ -2,6 +2,10 @@
 A list of past talks, including slides, videos, and any other resource we have.
 
 ## List of Talks
+* December 3rd, 2024: Low-Cost Static Websites [Slides](https://docs.google.com/presentation/d/1xAHaTXz6E9nu7DKeMoTg1UYjFZ2jFY6GQLueqe6Y_o4/edit?usp=sharing) / Securing Your Python Code
+* November 14, 2024: What I Learned About Theoretical Computer Science from Cracker Barrel.
+* October 9th, 2024: Underwater Audio Deterrent Systems / Deeper Dive of COCOTB
+* Sep 19th, 2024: llama-cpp-python / .NET and Python communication with MQTT and Bleak
 * August 6th, 2024: Beginning in Open Source Packaging in 2024 / What's New (and What's Coming) in Python! / Managing Python Projects with Poetry
 * July 22nd, 2024: Building a Cloud-Hosted LLM-Based Application With Python / Geospatial Data Visualization with Python
 * June 4th, 2024: FPGA Simulation with COCOTB [GitHub Repo](https://github.com/hsvpy/talks) / CleanIO - a look at the power of yield statements
