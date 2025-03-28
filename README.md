@@ -2,6 +2,9 @@
 A list of past talks, including slides, videos, and any other resource we have.
 
 ## List of Talks
+* March 27th, 2025: Lego Robotics and Python / Docker
+* February 11th, 2025: Biting the Apple - Native Mac Development with Python [Slides](https://rhettbull.github.io/biting-the-apple/) / Python Powered Lawnmowers
+* January 3rd, 2025: Sphinx Lab - Documenting Your Python Projects
 * December 3rd, 2024: Low-Cost Static Websites [Slides](https://docs.google.com/presentation/d/1xAHaTXz6E9nu7DKeMoTg1UYjFZ2jFY6GQLueqe6Y_o4/edit?usp=sharing) / Securing Your Python Code
 * November 14, 2024: What I Learned About Theoretical Computer Science from Cracker Barrel.
 * October 9th, 2024: Underwater Audio Deterrent Systems / Deeper Dive of COCOTB
@@ -27,7 +30,7 @@ https://github.com/HSV-AI/presentations/blob/master/2024%2F240919_Llama_CPP_Pyth
 * Jun 14th, 2018 [Automating Raspberry Pis with your Phone Using Python](https://www.slideshare.net/pviafore/controlling-raspberry-pis-with-your-phone-using-python-110292334)
 * May 8th, 2018 [Generative Adversarial Networks](https://github.com/arnolmi/GAN)
 * Mar 29th, 2018 Lightning Talks - [Sudoku Solving](https://github.com/pviafore/sudoku-solver/blob/master/Sudoku%20Solver.ipynb)
-* Feb 21st, 2018 Getting started with Python / Getting Started with Unit Testing 
+* Feb 21st, 2018 Getting started with Python / Getting Started with Unit Testing
 * Jan 30th, 2018 - 5 Ways to Better Dev- No Matter What / Django in a Jiffy [Slides](https://docs.google.com/presentation/d/1CjWWlRFKgaom9LWoegRvaScXtAlEEbQk0wRCWactZXM/edit?usp=sharing)
 * Dec 8th, 2017 - Python as a MATLAB Replacement
 * Nov 7th, 2017 - *Python Unit Testing and CI Workflow* [Slides](https://docs.google.com/presentation/d/1PQ6k4dcZG0YI2fiwVOCAqBIA6tXOhu8RvbIuiNdVulc/edit?usp=sharing)
