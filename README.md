@@ -2,6 +2,7 @@
 A list of past talks, including slides, videos, and any other resource we have.
 
 ## List of Talks
+* April 22nd, 2025: Controlling Expert Electronics Ham Radio SDR Transceivers / NiceGUI [Slides](NiceGUI 2025-04-22.pdf)
 * March 27th, 2025: Lego Robotics and Python / Docker
 * February 11th, 2025: Biting the Apple - Native Mac Development with Python [Slides](https://rhettbull.github.io/biting-the-apple/) / Python Powered Lawnmowers
 * January 3rd, 2025: Sphinx Lab - Documenting Your Python Projects
