@@ -2,7 +2,7 @@
 A list of past talks, including slides, videos, and any other resource we have.
 
 ## List of Talks
-* April 22nd, 2025: Controlling Expert Electronics Ham Radio SDR Transceivers / NiceGUI [Slides](NiceGUI 2025-04-22.pdf)
+* April 22nd, 2025: Controlling Expert Electronics Ham Radio SDR Transceivers / NiceGUI [Slides](./NiceGUI 2025-04-22.pdf)
 * March 27th, 2025: Lego Robotics and Python / Docker
 * February 11th, 2025: Biting the Apple - Native Mac Development with Python [Slides](https://rhettbull.github.io/biting-the-apple/) / Python Powered Lawnmowers
 * January 3rd, 2025: Sphinx Lab - Documenting Your Python Projects
@@ -13,7 +13,7 @@ A list of past talks, including slides, videos, and any other resource we have.
 https://github.com/HSV-AI/presentations/blob/master/2024%2F240919_Llama_CPP_Python.ipynb) / .NET and Python communication with MQTT and Bleak
 * August 6th, 2024: Beginning in Open Source Packaging in 2024 / What's New (and What's Coming) in Python! / Managing Python Projects with Poetry
 * July 22nd, 2024: Building a Cloud-Hosted LLM-Based Application With Python / Geospatial Data Visualization with Python
-* June 4th, 2024: FPGA Simulation with COCOTB [GitHub Repo](https://github.com/hsvpy/talks) / CleanIO - a look at the power of yield statements
+* June 4th, 2024: FPGA Simulation with COCOTB [GitHub Repo](github.com/andrewandrepowell/cocotb-introduction) / CleanIO - a look at the power of yield statements
 * May 7th: 2024: Extensible Python: Robustness Through Addition [Slides](https://www.slideshare.net/slideshow/extensible-python-robustness-through-addition-pycon-2024/268810912)
 * April 18th, 2023: Robust Python: Building a Vocabulary with User-Defined Types [Slides](https://www.slideshare.net/pviafore/userdefined-typespdf)
 * Jan 24th, 2020: Python3 Lightning Talks:  [F-strings](https://docs.google.com/presentation/d/19tFoqdi8jFbIkhNDtLjrkNFK9spVgxfYZBln7MJaqAY/edit?usp=sharing) | [Walrus Operator](https://docs.google.com/presentation/d/143PasHqrAXuG7VIFwsvwEas6wJD1_WVU89iTnGy9LxA/edit?usp=sharing) | [Import Lib Metadata](importlib.metadata.pptx) | [Trivia](https://docs.google.com/presentation/d/1rI9M2LVpuEuQfu45V47_aP4N5U-GMBZvOBQ-JT5ICQo/edit?usp=sharing) | [Video](https://youtu.be/6tmtiB_tVfE)
